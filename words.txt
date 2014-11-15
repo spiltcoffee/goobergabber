@@ -67,6 +67,7 @@ opher
 ore
 ossip
 out
+rabber
 rade
 rain
 rand
@@ -83,6 +84,7 @@ rief
 rinch
 rizzly
 roin
+roiny
 ross
 rudge
 rumble
