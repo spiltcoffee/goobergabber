@@ -48,14 +48,9 @@ function walk(node)
 	}
 }
 
-function getGWord(includeCapitalG)
+function getGWord()
 {
-	gWord = gWordArray[Math.floor(Math.random() * gWordArray.length)];
-
-	if (includeCapitalG)
-		gWord = "G" + gWord;
-
-	return gWord;
+	return gWordArray[Math.floor(Math.random() * gWordArray.length)];
 }
 
 function handleText(textNode) 
@@ -74,7 +69,7 @@ function handleText(textNode)
 	v = v.replace(/\ba (alligator?)\b/ig, "an $1");
 
 	//gamergate -> gwordgword
-	v = v.replace(/\b(g)amer(g)ate(s?)\b/ig, "$1" + getGWord(false) + "$2" + getGWord(false) + "$3");
+	v = v.replace(/\b(g)amer(g)ate(s?)\b/ig, "$1" + getGWord() + "$2" + getGWord() + "$3");
 	
 	if (v !== oldValue) {
 		textNode.nodeValue = v;
