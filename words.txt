@@ -22,9 +22,11 @@ awker
 elato
 enie
 enital
+erber
 eriatric
 erm
 hastly
+herkin
 host
 iant
 ibber
@@ -37,6 +39,7 @@ iraffe
 izzle
 lamour
 litter
+lobule
 lorble
 lycerine
 nome
@@ -49,6 +52,7 @@ oblin
 offy
 olden
 olfer
+omer
 oo
 oober
 oobly
@@ -59,7 +63,9 @@ oomba
 oon
 oop
 opher
+ore
 ossip
+out
 rade
 rain
 rand
@@ -73,6 +79,7 @@ rease
 reat
 reen
 rief
+rinch
 rizzly
 roin
 ross
@@ -89,11 +96,9 @@ ulf
 ullet
 ullible
 umball
+umble
+umdrop
+ump
+umption
 ust
 uzzler
-herkin
-lobule
-rinch
-omer
-ump
-out
