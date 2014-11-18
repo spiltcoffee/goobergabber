@@ -18,6 +18,9 @@
       </Description>
     </em:targetApplication>
 
+    <em:iconURL>chrome://goobergabber/skin/icon48.png</em:iconURL>
+    <em:icon64URL>chrome://goobergabber/skin/icon64.png</em:icon64URL>
+
     <!-- Front End MetaData -->
     <em:name>#GooberGabber - GamerGate Word Scrambler</em:name>
     <em:description>Replaces "GamerGate" with other G words. Also replaces "GamerGater" with "Alligator".</em:description>

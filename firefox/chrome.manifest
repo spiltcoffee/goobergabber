@@ -1,2 +1,3 @@
 content goobergabber chrome/content/
+skin goobergabber classic/1.0 chrome/skin/
 overlay chrome://browser/content/browser.xul chrome://goobergabber/content/goobergabber.xul
