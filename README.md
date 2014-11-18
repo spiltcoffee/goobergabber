@@ -1,10 +1,12 @@
 # Readme
 
-Chrome extension that replaces occurrences of 'GamerGate' with two random words starting with G.
+Chrome and Firefox extension that replaces occurrences of 'GamerGate' with two random words starting with G.
 
 Also replaces occurrances of 'GamerGater' with 'Alligator'.
 
 ###[Chrome Extension available here](https://chrome.google.com/webstore/detail/efeahgomdginngpicicpkkbmgmcjembl)
+
+###[Firefox Addon available here](https://addons.mozilla.org/en-US/firefox/addon/goobergabber-gamergate-word-sc/)
 
 #Contact
 
