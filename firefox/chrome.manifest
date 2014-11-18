@@ -1,0 +1,2 @@
+content goobergabber chrome/content/
+overlay chrome://browser/content/browser.xul chrome://goobergabber/content/goobergabber.xul

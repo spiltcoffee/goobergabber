@@ -19,8 +19,8 @@
     </em:targetApplication>
 
     <!-- Front End MetaData -->
-    <em:name>GooberGabber</em:name>
-    <em:description>TBW</em:description>
+    <em:name>#GooberGabber - GamerGate Word Scrambler</em:name>
+    <em:description>Replaces "GamerGate" with other G words. Also replaces "GamerGater" with "Alligator".</em:description>
     <em:creator>spiltcoffee</em:creator>
     <em:homepageURL>https://github.com/spiltcoffee/goobergabber</em:homepageURL>
   </Description>
