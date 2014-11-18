@@ -105,8 +105,13 @@ var extGooberGabber = (function() {
 // do not try to add a callback until the browser window has
 // been initialised. We add a callback to the tabbed browser
 // when the browser's window gets loaded.
-window.addEventListener("load", function () {
+window.addEventListener("load", onStartup, false);
+
+function onStartup() {
   // Add a callback to be run every time a document loads.
   // note that this includes frames/iframes within the document
   gBrowser.addEventListener("load", extGooberGabber.onPageLoad, true);
-}, false);
+
+  // Cleanup event listener now that we don't need it
+  window.removeEventListener("load", onStartup, false);
+}
